@@ -1,7 +1,7 @@
 # Multimodal Analysis of HNSCC Plasma - Scripts used in Analysis
 *Author: Justin M. Burgener*
 
-Processed data and code used to generate figures for manuscript titled: 'Tumor-naive multimodal profiling of circulating tumor DNA in localized head and neck squamous cell carcinoma'. Code Ocean capsule including R objects can be found at DOI: 10.24433/CO.6511868.v1
+Processed data and code used to generate figures for manuscript titled: 'Tumor-naive multimodal profiling of circulating tumor DNA in localized head and neck squamous cell carcinoma'. Code Ocean capsule including Data and Results (referenced in the various scripts) can be found at DOI: 10.24433/CO.6511868.v1
 
 ## *About*
 
