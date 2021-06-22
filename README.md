@@ -16,7 +16,7 @@ Analysis is intended to be performed via the workflow.R script, each script may 
     * Bioconductor Packages: BSgenome.hsapiens.UCSC.hg19 (v 1.4.3), GenomicRanges (v 1.42.0), AnnotationHub (v 2.22.0), Repitools (v 1.36.0), Biobase (v 2.50.0), DESeq2 (v1.30.0), Homo.sapiens (v 1.3.1), TCGAbiolinks (v 2.18.0), biovizBase (v 1.38.0), ggbio (v 1.38.0), limma (v 3.46.0), minfi (v 1.36.0)
     * R (CRAN) Packages: DT (v 0.17), RColorBrewer (v 1.1-2), cowplot (v 1.1.1), cutpointr (v 1.0.32), data.table (v 1.13.6), dplyer (v 1.0.3), egg (v 0.4.5), ggdendro (v 0.1.22), ggplot2 (v 3.3.3), ggpubr (v 0.4.0), ggridges (v 0.5.3), ggsci (v 2.9), ggthemes (v 4.2.0), glmnet (v 4.1), pROC (v 1.17.0.1), purrr (v 0.3.4), reshape2 (v 1.4.4), survival (v 3.2-7), survminer (v 0.4.8), tidyverse (v 1.3.0)
     
-## *Procedure:*
+## *FASTQ to BAM File Procedure:*
 
   1. Align FASTQ files to reference genome (bwa/0.7.15, igenome-human/hg19)
      ```bash
