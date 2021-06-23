@@ -7,7 +7,7 @@ Processed data and code used to generate figures for manuscript titled: 'Tumor-n
 
 The code within the bratman lab/multimodal-hnscc-manuscript repository is used to demonstrate key findings including: (1) the identification of ctDNA-derived mutations and methylation by CAPP-Seq and cfMeDIP-seq respectively, (2) associated properties of ctDNA fragments, and (3) clinical utility of multimodal detection of ctDNA. The code uses proccessed data from BAM files (FASTQ to SAM by bwa-mem, SAM to BAM by samtools), requiring bash programming and pre-installed software. Access to a high-performance computing cluster is also recommended. Due to privacy concerns, the BAM files used are not available (with the exception of the HNSCC cell-line FaDu which is available upon request).
 
-Analysis is intended to be performed via the workflow.R script, each script may be run independently however some files should be generated frmo prior scripts into the results folder. Please note that all data used can be located at the Code Ocean capsule referenced above.
+Analysis is intended to be performed via the workflow.R script, each script may be run independently however some files should be generated from prior scripts into the results folder. Please note that all data used can be located at the Code Ocean capsule referenced above.
 
 ## *Requirements:*
   * Computer running a Linux system (≥ 8 GB RAM) **Cluster computing is HIGHLY recommended when working with FASTQ/BAM files**
